@@ -1,0 +1,62 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+li{
+  list-style: none;
+}
+
+.logo{
+width: 20%;
+}
+
+.title{
+  color:darkblue;
+  font-weight: bold;
+}
+
+.title:hover{
+  color: red;
+}
+.button{
+  position: relative;
+  left: 50px;
+  gap:5px;
+}
+
+.loginbutton{
+  width: 200%;
+  border: none;
+  background-color:#22205f;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+font-size: 18px;
+border-radius: 2px;
+font-weight: bold;
+}
+
+.loginbutton:hover{
+  background-color: red;
+}
+
+
+.createbutton{
+  width: 150%;
+  border: none;
+  background-color:#22205f;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+font-size: 18px;
+border-radius: 2px;
+font-weight: bold;
+}
+
+.createbutton:hover{
+  background-color: red;
+}
+
+.header{
+  position: relative;
+  left: 40px;
+}
