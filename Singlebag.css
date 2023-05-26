@@ -1,0 +1,22 @@
+.singlebag{
+    color: #22205f;
+    font-family: 'Poppins', sans-serif;
+font-weight: bolder;
+}
+
+.img1:hover{
+    transform: scale(1.2); 
+}
+
+
+.offer{
+    color: #22205f;
+font-weight: bolder;
+}
+
+.card{
+    width: 25rem;
+}
+.cards{
+    width: 35rem;
+}
